@@ -8,7 +8,7 @@
     * Open the command line and navigate to the project directory.
     * Start the application by running gunicorn app:app. The project should be accessible at http://127.0.0.1:8000.
 4. Test the Project:
-    * Open a web browser and visit http://127.0.0.1:8000/api/v1/hello-world-{your_number}
+    * Open a web browser and visit http://127.0.0.1:8000/api/v1/hello-world-12
 5. Shutdown the Application:
     * To stop the application, type Ctrl+C in the command line.
     * 

@@ -3,6 +3,7 @@
 2. Install Dependencies:
     * Ensure you have Python and pip installed on your computer.
     * Open the command line and navigate to the project directory.
+    * Open shell pipenv shell
     * Write gunicorn -w 4 lab1:app
 3. Test the Project:
     * Open a web browser and visit http://127.0.0.1:8000/api/v1/hello-world-12

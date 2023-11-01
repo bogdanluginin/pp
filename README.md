@@ -3,6 +3,7 @@
 2. Install Dependencies:
     * Ensure you have Python and pip installed on your computer.
     * Open the command line and navigate to the project directory.
+    * Install the dependencies by running pip install -r requirements.txt.
     * Open shell pipenv shell
     * Write gunicorn -w 4 lab1:app
 3. Test the Project:
